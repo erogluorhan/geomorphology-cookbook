@@ -1,4 +1,4 @@
-# (Replace_with_your_title) Cookbook
+# Geomorphology Cookbook
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
@@ -12,7 +12,10 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+- What: A cookbook adapting ArcGIS PRO workflow in Geoscience Australia’s Semi-automated Morphological Mapping Tools (GA-SaMMT) for open science.
+- Why: Seafloor morphology maps supports marine geoscience, habitat mapping, and environmental management. However, many workflows remain manual or difficult to reproduce (e.g. ArcGIS Pro tools)
+- How: Starting from GeoTIFF bathymetry, the cookbook will compute terrain metrics, delineate candidate features, and produce GIS-compatible labeled polygons for landforms (e.g. valleys, ridges, depressions, and plateaus.) with notebook visualization
+- Who: This project is for anyone interested in geomorphology, bathymetry, GIS, and Python geospatial in general.
 
 ## Authors
 
