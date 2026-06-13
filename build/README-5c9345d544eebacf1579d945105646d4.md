@@ -17,6 +17,10 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 - How: Starting from GeoTIFF bathymetry, the cookbook will compute terrain metrics, delineate candidate features, and produce GIS-compatible labeled polygons for landforms (e.g. valleys, ridges, depressions, and plateaus.) with notebook visualization
 - Who: This project is for anyone interested in geomorphology, bathymetry, GIS, and Python geospatial in general.
 
+## Reference
+
+Huang, Z., Nanson, R., Nichol, S., Sixsmith, J., 2022 Geoscience Australia's Semi-automated Morphological Mapping Tools (GA-SaMMT) for Seabed Characterisation. Commonwealth of Australia (Geoscience Australia). https://dx.doi.org/10.26186/146832
+
 ## Authors
 
 First Author, Second Author, etc. _Acknowledge primary content authors here! You can include links to their GitHub profiles or other unique pages._
